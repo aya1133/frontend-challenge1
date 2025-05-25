@@ -6,7 +6,7 @@ This project is a solution to the [Frontend Mentor challenge](https://www.fronte
 
 ## 📸 Screenshot
 
-![Product Preview Card Screenshot](product20%screenshot.png/.) 
+![Product Preview Card Screenshot](product%20screenshot.png/.) 
 
 ---
 
